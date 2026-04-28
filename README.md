@@ -210,7 +210,7 @@ SMTP_FROM="Hiring Team <your_email@gmail.com>"
          └───────────────┬────────────────┘
                          │
          ┌───────────────▼────────────────┐
-         │  4. Send Emails     │
+         │  4. Send Emails                │
          │     ├─ Interview Invites       │
          │     └─ Rejection Notices       │
          └────────────────────────────────┘
